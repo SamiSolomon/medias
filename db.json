@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Evelyn Padberg"
+    },
+    {
+      "id": "2",
+      "name": "Desiree Altenwerth"
+    },
+    {
+      "id": "3",
+      "name": "Victoria Bosco"
+    },
+    {
+      "id": "4",
+      "name": "Herbert Balistreri"
+    },
+    {
+      "id": "81ee",
+      "name": "Julie Pfeffer"
+    }
+  ],
+  "albums": [
+    {
+      "id": "c8f2",
+      "userId": "2",
+      "title": "Modern Fresh Table"
+    },
+    {
+      "id": "1ffc",
+      "userId": "2",
+      "title": "Licensed Soft Mouse"
+    },
+    {
+      "id": "e24d",
+      "userId": "2",
+      "title": "Unbranded Concrete Bike"
+    },
+    {
+      "id": "685f",
+      "userId": "2",
+      "title": "Handmade Fresh Bike"
+    },
+    {
+      "id": "581a",
+      "userId": "2",
+      "title": "Refined Rubber Sausages"
+    },
+    {
+      "id": "5b79",
+      "userId": "2",
+      "title": "Ergonomic Wooden Ball"
+    },
+    {
+      "id": "3f78",
+      "userId": "2",
+      "title": "Elegant Cotton Cheese"
+    },
+    {
+      "id": "1c62",
+      "userId": "2",
+      "title": "Ergonomic Wooden Mouse"
+    },
+    {
+      "id": "dd24",
+      "userId": "2",
+      "title": "Generic Rubber Chicken"
+    },
+    {
+      "id": "44b4",
+      "userId": "3",
+      "title": "Licensed Plastic Chair"
+    },
+    {
+      "id": "6024",
+      "userId": "3",
+      "title": "Tasty Rubber Pants"
+    },
+    {
+      "id": "0a93",
+      "userId": "4",
+      "title": "Fantastic Fresh Fish"
+    },
+    {
+      "id": "16a7",
+      "userId": "81ee",
+      "title": "Handmade Concrete Bike"
+    }
+  ],
+  "photos": [
+    {
+      "id": "b3e2",
+      "albumId": null,
+      "url": "https://loremflickr.com/640/480/abstract?lock=4417805684310016"
+    }
+  ]
+}
